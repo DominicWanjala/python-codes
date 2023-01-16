@@ -11,3 +11,8 @@ print(name)
 #integer
 b=20
 print(b)
+"""
+owner: Dominic Wanjala
+course: IT
+school: Zetech
+"""
